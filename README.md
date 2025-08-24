@@ -2,7 +2,7 @@
 
 <div align="center"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGVmd3R1cjM4NjFkODJ4emRmYjAyaXB2anEzYWJ4cmM3OHR4d3h1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k1g9hVriuo6Hs4Ty9I/giphy.gif" alt="HUMANIKA Banner" width="800" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"> </div>
 
-Selamat datang di profil resmi **HUMANIKA** (Himpunan Mahasiswa Informatika) AKPRIND! Kami adalah organisasi mahasiswa yang mewadahi seluruh mahasiswa Program Studi Informatika di Institut Sains & Teknologi AKPRIND Yogyakarta. HUMANIKA hadir sebagai wadah pengembangan diri, kreativitas, dan inovasi di bidang informatika serta teknologi digital.
+Selamat datang di profil resmi **HUMANIKA** (Himpunan Mahasiswa Informatika) Universitas AKPRIND Indonesia! Kami adalah organisasi mahasiswa yang mewadahi seluruh mahasiswa Program Studi Informatika di Universitas AKPRIND Indonesia. HUMANIKA hadir sebagai wadah pengembangan diri, kreativitas, dan inovasi di bidang informatika serta teknologi digital.
 
 ## 🎯 Visi & Misi
 
